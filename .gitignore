@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs and outputs
+logs/
+output/
+outputs/
+results/
+temp/
+figures_temp/
+
+# Large data files
+*.h5ad
+*.h5
+*.loom
+*.mtx
+*.npy
+*.npz
+*.pkl
+*.pickle
+*.pt
+*.pth
+*.ckpt
+
+# Raw/intermediate data
+data/raw/
+data/processed/
+data/intermediate/

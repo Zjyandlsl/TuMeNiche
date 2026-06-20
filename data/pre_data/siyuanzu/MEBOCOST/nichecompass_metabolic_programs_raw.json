@@ -1,0 +1,169 @@
+{
+    "Hypoxia/EGFR_D-Lactate_Communication": {
+        "sources": [
+            "MYC",
+            "EGFR",
+            "HAGHL",
+            "HIF1A",
+            "HAGH"
+        ],
+        "targets": [
+            "SLC16A1",
+            "HCAR1"
+        ]
+    },
+    "Hypoxia_Adenosine_Communication": {
+        "sources": [
+            "NT5C1B",
+            "NT5C2",
+            "AHCY",
+            "NT5C3",
+            "AHCYL2",
+            "HIF1A",
+            "NT5E",
+            "NT5C1A",
+            "NT5M",
+            "NT5C",
+            "AHCYL1"
+        ],
+        "targets": [
+            "ADORA1",
+            "ADORA2A",
+            "ADORA2B",
+            "ADORA3",
+            "SLC29A2",
+            "SLC29A1"
+        ]
+    },
+    "Stress/Apoptosis_ATP_Communication": {
+        "sources": [
+            "NME4",
+            "NME7",
+            "RBKS",
+            "HIBCH",
+            "NME1",
+            "BAX",
+            "ACLY",
+            "IPPK",
+            "MAT2B",
+            "NME5",
+            "NMRK1",
+            "MAT2A",
+            "NME6",
+            "MAT1A",
+            "NME2",
+            "CASP3",
+            "SLC27A5",
+            "NMRK2",
+            "NUDT2",
+            "NME3"
+        ],
+        "targets": [
+            "P2RX1",
+            "P2RX2",
+            "P2RX3",
+            "P2RX4",
+            "P2RX5",
+            "P2RX6",
+            "P2RX7",
+            "P2RY1",
+            "P2RY2",
+            "P2RY4",
+            "P2RY6",
+            "P2RY11",
+            "P2RY12",
+            "P2RY13",
+            "GPR17",
+            "ITPR1",
+            "RYR1",
+            "RYR2",
+            "RYR3",
+            "TRPM4"
+        ]
+    },
+    "c-Myc_L-Glutamine_Communication": {
+        "sources": [
+            "MYC",
+            "PPAT",
+            "GLUL"
+        ],
+        "targets": [
+            "SLC1A5",
+            "SLC38A2",
+            "SLC3A2",
+            "SLC7A5",
+            "SLC6A14",
+            "SLC6A19",
+            "SLC7A6",
+            "SLC7A7",
+            "SLC38A1",
+            "SLC38A3",
+            "SLC38A5",
+            "SLC38A7",
+            "SLC38A8",
+            "SLC43A1",
+            "GPRC6A"
+        ]
+    },
+    "Hypoxia_Succinate_Communication": {
+        "sources": [
+            "EGLN2",
+            "EGLN3",
+            "TET1",
+            "NO66",
+            "TET3",
+            "PLOD3",
+            "TMLHE",
+            "HIF1AN",
+            "PHYH",
+            "MINA",
+            "OXCT1",
+            "OXCT2",
+            "EGLN1",
+            "KDM8",
+            "ALKBH2",
+            "PHF8",
+            "ALKBH1",
+            "BBOX1",
+            "P4HA1",
+            "ASPH",
+            "PLOD2",
+            "P4HA3",
+            "LEPREL2",
+            "P4HTM",
+            "LEPRE1",
+            "HIF1A",
+            "P4HA2",
+            "PLOD1",
+            "LEPREL1",
+            "TET2",
+            "KDM2B",
+            "KDM2A",
+            "ALDH5A1"
+        ],
+        "targets": [
+            "SUCNR1",
+            "SLC13A5",
+            "TRPC6"
+        ]
+    },
+    "NFkB/Inflammation_Prostaglandin E2_Communication": {
+        "sources": [
+            "PTGES2",
+            "PTGES",
+            "NFKB1",
+            "RELA",
+            "CBR3",
+            "PTGES3",
+            "CBR1"
+        ],
+        "targets": [
+            "PTGER1",
+            "PTGER2",
+            "PTGER4",
+            "SLC22A1",
+            "SLC22A2",
+            "PTGER3"
+        ]
+    }
+}
